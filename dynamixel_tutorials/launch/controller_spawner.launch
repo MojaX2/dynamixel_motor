@@ -9,7 +9,23 @@
           args="--manager=dxl_manager
                 --port=pan_tilt_port
                 --type=simple
-                pan_controller
-                tilt_controller"
+                hand_30
+                hand_31
+                hand_32
+                hand_33
+                hand_34
+                hand_35
+                hand_36
+                hand_37
+                hand_38
+                hand_40
+                hand_41
+                hand_42
+                hand_43
+                hand_44
+                hand_45
+                hand_46
+                hand_47
+                hand_48"
           output="screen"/>
 </launch>

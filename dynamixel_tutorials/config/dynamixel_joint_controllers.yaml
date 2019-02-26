@@ -1,25 +1,235 @@
-pan_controller:
+hand_30:
     controller:
         package: dynamixel_controllers
         module: joint_position_controller
         type: JointPositionController
-    joint_name: pan_joint
-    joint_speed: 2.0
+    joint_name: hand_30
+    joint_speed: 4096
     motor:
-        id: 5
-        init: 512
+        id: 30
+        init: 0
         min: 0
-        max: 1023
+        max: 4095
 
-tilt_controller:
+hand_31:
     controller:
         package: dynamixel_controllers
         module: joint_position_controller
         type: JointPositionController
-    joint_name: tilt_joint
-    joint_speed: 2.0
+    joint_name: hand_31
+    joint_speed: 4096
     motor:
-        id: 6
-        init: 512
+        id: 31
+        init: 0
         min: 0
-        max: 1023
+        max: 4095
+
+hand_32:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_32
+    joint_speed: 4096
+    motor:
+        id: 32
+        init: 0
+        min: 0
+        max: 4095
+
+hand_33:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_33
+    joint_speed: 4096
+    motor:
+        id: 33
+        init: 0
+        min: 0
+        max: 4095
+
+hand_34:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_34
+    joint_speed: 4096
+    motor:
+        id: 34
+        init: 0
+        min: 0
+        max: 4095
+
+hand_35:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_35
+    joint_speed: 4096
+    motor:
+        id: 35
+        init: 0
+        min: 0
+        max: 4095
+
+hand_36:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_36
+    joint_speed: 4096
+    motor:
+        id: 36
+        init: 0
+        min: 0
+        max: 4095
+
+hand_37:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_37
+    joint_speed: 4096
+    motor:
+        id: 37
+        init: 0
+        min: 0
+        max: 4095
+
+hand_38:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_38
+    joint_speed: 4096
+    motor:
+        id: 38
+        init: 0
+        min: 0
+        max: 4095
+
+hand_40:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_40
+    joint_speed: 4096
+    motor:
+        id: 40
+        init: 0
+        min: 0
+        max: 4095
+
+hand_41:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_41
+    joint_speed: 4096
+    motor:
+        id: 41
+        init: 0
+        min: 0
+        max: 4095
+
+hand_42:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_42
+    joint_speed: 4096
+    motor:
+        id: 42
+        init: 0
+        min: 0
+        max: 4095
+
+hand_43:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_43
+    joint_speed: 4096
+    motor:
+        id: 43
+        init: 0
+        min: 0
+        max: 4095
+
+hand_44:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_44
+    joint_speed: 4096
+    motor:
+        id: 44
+        init: 0
+        min: 0
+        max: 4095
+
+hand_45:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_45
+    joint_speed: 4096
+    motor:
+        id: 45
+        init: 0
+        min: 0
+        max: 4095
+
+hand_46:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_46
+    joint_speed: 4096
+    motor:
+        id: 46
+        init: 0
+        min: 0
+        max: 4095
+
+hand_47:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_47
+    joint_speed: 4096
+    motor:
+        id: 47
+        init: 0
+        min: 0
+        max: 4095
+
+hand_48:
+    controller:
+        package: dynamixel_controllers
+        module: joint_position_controller
+        type: JointPositionController
+    joint_name: hand_48
+    joint_speed: 4096
+    motor:
+        id: 48
+        init: 0
+        min: 0
+        max: 4095
+
+
